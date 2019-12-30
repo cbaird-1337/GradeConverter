@@ -1,4 +1,4 @@
-score = input("Enter Score: ")
+score = input("Enter Percent Score in Decimal Form: ")
 s = float(score)
 
 if s >= 0.9:
